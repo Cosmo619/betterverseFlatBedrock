@@ -1,0 +1,5 @@
+    name: Flat Bedrock
+    main: betterverse.flatBedrock.FlatBedrock
+    version: 1.0
+    description: This checks to see if there is a player at, or below, level 8. If there is, any bedrock below is turned to stone and level 1 is kept bedrock.
+    author: Cosmo619
